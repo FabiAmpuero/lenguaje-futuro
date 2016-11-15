@@ -43,10 +43,12 @@ header img {
     font-family: Arial;
     margin-top: 10px;
 }
+.contenido {
+    margin: 30px 0 20px 0;
+}
 /* ------------------------------------------------------------------------ FOOTER -----*/
 footer {
     background: #393939;
     padding: 15px 0;
     color: #fff;
-    margin-top: 20px;
 }
